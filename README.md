@@ -7,7 +7,7 @@ This project explores Spotify’s most streamed tracks using Python, Pandas, Sea
 The analysis is based on the `tracks.csv` file from the following public dataset:  
 https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
 
-Because the dataset is large, it is **not** included in this repository. To reproduce the analysis, download `tracks.csv` from Kaggle and place it in a local `data/` folder as described below.[1]
+Because the dataset is large, it is **not** included in this repository. To reproduce the analysis, download `tracks.csv` from Kaggle and place it in a local `data/` folder as described below.
 
 ## 📁Project Structure
 A suggested structure for this repository is:
